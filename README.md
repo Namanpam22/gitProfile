@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a my projects for resume<br>👯 I’m looking to collaborate on any project in which I can make some values <br>🤝 I’m looking for help with achieving a job and building my resume<br>🌱 I’m currently learning Spring Framework<br>⚡ I'm open for suggestion please lemme know anything which will help me getting a job and help for future 
+🔭 I’m currently working on my projects for resume<br>👯 I’m looking to collaborate on any project in which I can make some values <br>🤝 I’m looking for help with achieving a job and building my resume<br>🌱 I’m currently learning Spring Framework<br>⚡ I'm open for suggestion please lemme know anything which will help me getting a job and help for future 
 
 
 ## 🌐 Socials:
